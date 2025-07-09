@@ -1,42 +1,35 @@
+Freelance Marketplace
+
 🧩 Overview
-Freelance Marketplace is a full-stack web application where users can:
 
-Register as employers or job seekers
+•  Freelance Marketplace is a full-stack web application where users can:
 
-Post and apply to jobs
+•  Register as employers or job seekers
 
-Receive real-time notifications
+•  Post and apply to jobs
 
-Manage authentication, roles, and dashboards
+•  Receive real-time notifications
+
+•  Manage authentication, roles, and dashboards
+
 
 🚀 Tech Stack
-🖥️ Frontend
-React 19 + Vite
 
-Redux Toolkit + RTK Query
+🖥️ Frontend (React 19 + Vite)
 
-React Hook Form + Yup
+•  Redux Toolkit + RTK Query
 
-Tailwind CSS
+•  React Hook Form + Yup
 
-React Router DOM v7 (with lazy loading)
+•  Tailwind CSS
 
-React Toastify (for notifications)
+•  React Router DOM v7 (with lazy loading)
 
-MUI (Material UI) (for components)
-
-⚙️ Backend
-Laravel 11
-
-Laravel Sanctum (auth)
-
-Laravel WebSockets (real-time notifications)
-
-Eloquent ORM with model relationships
+•  MUI (Material UI) (for components)
 
 
+📁 Project Structure
 
-📁 Project Structure 
 src/
 ├── assets/                  # Static images, fonts, etc.
 ├── components/              # Reusable UI components
@@ -60,9 +53,6 @@ src/
 🧪 Prerequisites
 Node.js >= 18
 
-Laravel backend (e.g. http://localhost:8000)
-
-.env file
 
 📦 Installation
 
